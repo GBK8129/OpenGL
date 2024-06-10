@@ -1,0 +1,8 @@
+/home/hp/Desktop/p5/bin/CMakeFiles/CGAL_Qt5_moc_and_resources.dir
+/home/hp/Desktop/p5/bin/CMakeFiles/min.dir
+/home/hp/Desktop/p5/bin/CMakeFiles/ALL_CGAL_TARGETS.dir
+/home/hp/Desktop/p5/bin/CMakeFiles/cgal_check_build_system.dir
+/home/hp/Desktop/p5/bin/CMakeFiles/compilation_of__CGAL_Qt5_moc_and_resources.dir
+/home/hp/Desktop/p5/bin/CMakeFiles/edit_cache.dir
+/home/hp/Desktop/p5/bin/CMakeFiles/rebuild_cache.dir
+/home/hp/Desktop/p5/bin/CMakeFiles/CGAL_Qt5_moc_and_resources_autogen.dir
